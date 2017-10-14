@@ -1,0 +1,123 @@
+[
+    {
+        "intent": "open",
+        "sentence": "open website"
+    },
+    {
+        "intent": "open",
+        "sentence": "show me website"
+    },
+    {
+        "intent": "open",
+        "sentence": "give me more information"
+    },
+    {
+        "intent": "open",
+        "sentence": "website"
+    },
+    {
+        "intent": "open",
+        "sentence": "rethink website"
+    },
+    {
+        "intent": "open",
+        "sentence": "tell me more"
+    },
+
+    {
+        "intent": "contact",
+        "sentence": "connect me with"
+    },
+    {
+        "intent": "contact",
+        "sentence": "connect"
+    },
+    {
+        "intent": "contact",
+        "sentence": "give me the phone number"
+    },
+    {
+        "intent": "contact",
+        "sentence": "i want to talk with"
+    },
+    {
+        "intent": "contact",
+        "sentence": "how to contact"
+    },
+    {
+        "intent": "contact",
+        "sentence": "contact"
+    },
+    {
+        "intent": "contact",
+        "sentence": "talk to"
+    },
+    {
+        "intent": "location",
+        "sentence": "how can i reach"
+    },
+    {
+        "intent": "location",
+        "sentence": "how can i reach"
+    },
+    {
+        "intent": "location",
+        "sentence": "navigate me to rethink"
+    },
+    {
+        "intent": "location",
+        "sentence": "how to go"
+    },
+    {
+        "intent": "location",
+        "sentence": "how to get"
+    },
+    {
+        "intent": "location",
+        "sentence": "location"
+    },
+    {
+        "intent": "location",
+        "sentence": "take me to rethink"
+    },
+    {
+        "intent": "location",
+        "sentence": "google map"
+    },
+    {
+        "intent": "location",
+        "sentence": "google maps"
+    },
+    {
+        "intent": "location",
+        "sentence": "google maps link"
+    },
+    {
+        "intent": "wiki",
+        "sentence": "wiki link"
+    },
+    {
+        "intent": "wiki",
+        "sentence": "rethink wiki"
+    },
+    {
+        "intent": "wiki",
+        "sentence": "wiki"
+    },
+    {
+        "intent": "blog",
+        "sentence": "blog"
+    },{
+        "intent": "blog",
+        "sentence": "blogs"
+    },
+    {
+        "intent": "blog",
+        "sentence": "rethink blog"
+    },
+    {
+        "intent": "blog",
+        "sentence": "show me the rethink blog"
+    }
+
+]
